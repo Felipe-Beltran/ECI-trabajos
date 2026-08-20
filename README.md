@@ -22,8 +22,8 @@ Bienvenido a mi repositorio de entregables y laboratorios académicos.
 | Carpeta | Descripción |
 | :--- | :--- |
 | `semana-1/` | Pruebas diagnósticas y conceptos iniciales |
-| `semana-2/` | *Próximamente...* |
-
+| `semana-2/` | Primer Laboratorio con Insert Sort |
+| `semana-2/` | Segundo Laboratorio con Busqueda Binaria y Teorema Maestro |
 ---
 
 > 🚀 *Repositorio mantenido para el seguimiento y control de versiones de los laboratorios del semestre.*
