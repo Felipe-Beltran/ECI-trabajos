@@ -5,7 +5,7 @@ Bienvenido a mi repositorio de entregables y laboratorios académicos.
 ---
 
 ### 👤 Datos del Estudiante
-* **Nombre:** Felipe Beltrán
+* **Nombre:** Felipe Beltrán Duque
 * **Carrera:** Ingeniería de Sistemas
 * **Institución:** Escuela Colombiana de Ingeniería Julio Garavito
 
