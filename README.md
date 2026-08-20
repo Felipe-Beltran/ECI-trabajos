@@ -23,7 +23,7 @@ Bienvenido a mi repositorio de entregables y laboratorios académicos.
 | :--- | :--- |
 | `semana-1/` | Pruebas diagnósticas y conceptos iniciales |
 | `semana-2/` | Primer Laboratorio con Insert Sort |
-| `semana-2/` | Segundo Laboratorio con Busqueda Binaria y Teorema Maestro |
+| `semana-3/` | Segundo Laboratorio con Busqueda Binaria y Teorema Maestro |
 ---
 
 > 🚀 *Repositorio mantenido para el seguimiento y control de versiones de los laboratorios del semestre.*
