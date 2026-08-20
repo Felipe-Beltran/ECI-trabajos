@@ -17,6 +17,12 @@ Bienvenido a mi repositorio de entregables y laboratorios académicos.
 
 ---
 
+### 💼 Equipo Laboratorio Lotomos
+* **Integrantes:** Felipe Beltrán Duque - Juan Sebastián Pulgarín Moreno - Juliana Andrea Segura Melo
+* **Carreras:** Ingeniería Sistemas y Estadística 
+
+---
+
 ### 📁 Estructura del Repositorio
 
 | Carpeta | Descripción |
