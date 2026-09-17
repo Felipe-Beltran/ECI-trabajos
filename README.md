@@ -30,6 +30,9 @@ Bienvenido a mi repositorio de entregables y laboratorios académicos.
 | `semana-1/` | Pruebas diagnósticas y conceptos iniciales |
 | `semana-2/` | Primer Laboratorio con Insert Sort |
 | `semana-3/` | Segundo Laboratorio con Busqueda Binaria y Teorema Maestro |
+| `semana-4/` | Tercer Laboratorio con Programacion Dinamica |
+| `dev-pr-dynamic/` | Parcial practico primer corte DDYA |
+| `semana-7/` | Cuarto Laboratorio con Pilas, Colas y Listas Enlazadas  |
 ---
 
 > 🚀 *Repositorio mantenido para el seguimiento y control de versiones de los laboratorios del semestre.*
